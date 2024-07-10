@@ -1,4 +1,4 @@
-# ZaloApp Clone
+# Zalo Web Clone
   ### <i>My Role: Backend Developer</i>
   <i>Contact: davidduongxu1@gmail.com</i>
 #### Members size: 5
